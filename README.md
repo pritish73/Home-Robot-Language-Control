@@ -6,18 +6,28 @@ The project combines a Large Language Model (Groq GPT-OSS-120B) for intent parsi
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/your-video-link
+
+## System Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" width="900">
+</p>
+
 ## Features
 
--  Natural language understanding
--  Grounded object search
--  Object memory
--  Retry mechanism for grasp failures
--  Safety filtering
--  Ambiguity handling
--  Capability queries
--  Object relocation
--  Location queries
--  Pronoun resolution
+-  Natural Language Understanding
+-  Object Memory
+-  Grounded Object Search
+-  Safety Validation
+-  Ambiguity Handling
+-  Retry & Recovery
+-  Context & Pronoun Resolution
+-  Object Manipulation
+-  Environment Queries
+-  Unsupported Request Handling
 
 ---
 
