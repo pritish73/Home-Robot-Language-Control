@@ -8,7 +8,7 @@ The project combines a Large Language Model (Groq GPT-OSS-120B) for intent parsi
 
 ## Demo
 
-https://github.com/user-attachments/your-video-link
+[https://github.com/user-attachments/your-video-link](https://github.com/pritish73/Home-Robot-Language-Control/blob/main/assets/demo.mp4)
 
 ## System Architecture
 
