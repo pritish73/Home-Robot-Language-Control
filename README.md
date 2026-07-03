@@ -16,6 +16,10 @@ The project combines a Large Language Model (Groq GPT-OSS-120B) for intent parsi
   <img src="assets/architecture.png" width="900">
 </p>
 
+## LinkedIn post
+[post 1](https://www.linkedin.com/posts/pritish-dutta-06aa43247_artificialintelligence-generativeai-llm-ugcPost-7478739693250060288-dGzL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0zQJIBTT7YkZT3zGLrbmrNSVHJ3tvqSak)
+[post 2](https://www.linkedin.com/posts/pritish-dutta-06aa43247_artificialintelligence-llm-agenticai-share-7478740882821672960-MkWw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0zQJIBTT7YkZT3zGLrbmrNSVHJ3tvqSak)
+
 ## Features
 
 -  Natural Language Understanding
