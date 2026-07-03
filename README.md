@@ -116,6 +116,3 @@ All planning, safety, grounding, recovery, and execution are implemented using d
 
 **Pritish Dutta**
 
-Electronics & Computer Engineering
-
-Thapar Institute of Engineering & Technology
